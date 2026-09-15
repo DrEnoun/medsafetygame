@@ -1,4 +1,4 @@
-const CACHE = 'pharmacy-safety-hunt-v2';
+const CACHE = 'pharmacy-safety-hunt-v3';
 const SHELL = [
   './',
   './index.html',
